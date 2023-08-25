@@ -1,0 +1,8 @@
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\bin\Debug\datatable.exe.config
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\bin\Debug\datatable.exe
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\bin\Debug\datatable.pdb
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\obj\Debug\datatable.csproj.AssemblyReference.cache
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\obj\Debug\datatable.csproj.SuggestedBindingRedirects.cache
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\obj\Debug\datatable.csproj.CoreCompileInputs.cache
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\obj\Debug\datatable.exe
+C:\Users\rushi.rajwade\source\repos\datatable\datatable\obj\Debug\datatable.pdb
